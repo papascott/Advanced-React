@@ -88,6 +88,10 @@ const Mutations = {
     // 5. Return the user
     return user;
   },
+  async signout(parents, args, ctx, info) {
+    ctx.response.clearCookie('token');
+    return { message: 'Goodbye!' };
+  },
 };
 
 module.exports = Mutations;
