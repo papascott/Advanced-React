@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import styled, { ThemeProvider, injectGlobal } from 'styled-components';
+import styledNormalize from 'styled-normalize';
 import Header from './Header';
 import Meta from './Meta';
 
@@ -24,6 +25,7 @@ const Inner = styled.div`
 `;
 
 injectGlobal`
+  ${styledNormalize}
   @font-face {
     font-family: 'radnika_next';
     src: url('/static/radnikanext-medium-webfont.woff2') format('woff2');
