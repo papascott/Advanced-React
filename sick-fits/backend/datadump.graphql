@@ -1,0 +1,69 @@
+{
+  "data": {
+    "items": [
+      {
+        "largeImage": "doggo.jpg",
+        "image": "dog.jpg",
+        "description": "I hate winter!!! But I love these jackets",
+        "price": 10000,
+        "title": "Canada Goose Jackets"
+      },
+      {
+        "largeImage": "https://res.cloudinary.com/papascott/image/upload/c_scale,q_auto,w_1000/v1537178133/sickfits/ndrgatxgogoa3a22r4kv.jpg",
+        "image": "https://res.cloudinary.com/papascott/image/upload/v1537178133/sickfits/ndrgatxgogoa3a22r4kv.jpg",
+        "description": "I love this",
+        "price": 1000,
+        "title": "Nike too seventy"
+      },
+      {
+        "largeImage": "https://res.cloudinary.com/papascott/image/upload/c_scale,q_auto,w_1000/v1537178522/sickfits/afbir9ny3dmwxhzrevje.jpg",
+        "image": "https://res.cloudinary.com/papascott/image/upload/v1537178522/sickfits/afbir9ny3dmwxhzrevje.jpg",
+        "description": "I love concerts",
+        "price": 1000,
+        "title": "Concert Hall"
+      },
+      {
+        "largeImage": "https://res.cloudinary.com/papascott/image/upload/c_scale,q_auto,w_1000/v1537178646/sickfits/luuzt8homxg724ydhubt.jpg",
+        "image": "https://res.cloudinary.com/papascott/image/upload/v1537178646/sickfits/luuzt8homxg724ydhubt.jpg",
+        "description": "I love shoes",
+        "price": 1000,
+        "title": "Cool shoes!"
+      },
+      {
+        "largeImage": "https://res.cloudinary.com/papascott/image/upload/c_scale,q_auto,w_1000/v1537367347/sickfits/eo76bwxej2znlibj9cul.webp",
+        "image": "https://res.cloudinary.com/papascott/image/upload/v1537367347/sickfits/eo76bwxej2znlibj9cul.webp",
+        "description": "The Nike Air Max 97 Men's Shoe keeps the sneaker favorite going strong with the same design details that made it famous: water-ripple lines, reflective piping and full-length Max Air cushioning.",
+        "price": 16000,
+        "title": "Nike Air Max 97"
+      },
+      {
+        "largeImage": "https://res.cloudinary.com/papascott/image/upload/c_scale,q_auto,w_1000/v1537367498/sickfits/glm5nwpb6g8vljfstwoh.webp",
+        "image": "https://res.cloudinary.com/papascott/image/upload/v1537367498/sickfits/glm5nwpb6g8vljfstwoh.webp",
+        "description": "The Nike Zoom Pegasus Turbo is the Pegasus you know and love with major upgrades for speed. The feather-light upper looks as fast as it feels, while the revolutionary Nike ZoomX foam that was designed for elite Nike runners during the Breaking 2 attempt brings record-breaking speed and responsiveness to your daily training runs.",
+        "price": 18000,
+        "title": "Nike Zoom Pegasus Turbo"
+      },
+      {
+        "largeImage": "https://res.cloudinary.com/papascott/image/upload/c_scale,q_auto,w_1000/v1537367575/sickfits/qulcxot0ofraevmzrdny.webp",
+        "image": "https://res.cloudinary.com/papascott/image/upload/v1537367575/sickfits/qulcxot0ofraevmzrdny.webp",
+        "description": "The LeBron 15 Low Basketball Shoe features supportive, sock-like Flyknit fabric and a powerful cushioning combination to meet the demands of explosive players like LeBron.",
+        "price": 15000,
+        "title": "LeBron 15 Low"
+      },
+      {
+        "largeImage": "https://res.cloudinary.com/papascott/image/upload/c_scale,q_auto,w_1000/v1537367651/sickfits/eosqynmfntquq1cwcete.webp",
+        "image": "https://res.cloudinary.com/papascott/image/upload/v1537367651/sickfits/eosqynmfntquq1cwcete.webp",
+        "description": "The Kyrie 4 80s Men's Basketball Shoe is flexible, responsive and supportive. It's designed for Kyrie Irving's sudden changes of direction and smooth yet rapid playing style.",
+        "price": 12000,
+        "title": "Kyrie 4 80s"
+      },
+      {
+        "largeImage": "https://res.cloudinary.com/papascott/image/upload/c_scale,q_auto,w_1000/v1537367714/sickfits/bf9nzidue9xwhs22az6s.webp",
+        "image": "https://res.cloudinary.com/papascott/image/upload/v1537367714/sickfits/bf9nzidue9xwhs22az6s.webp",
+        "description": "The Nike Air Force 1 '07 Men's Shoe incorporates the same hoops-inspired performance features of the 1982 original while adding fresh design details for a sleeker look.",
+        "price": 12000,
+        "title": "Nike Air Force 1 '07"
+      }
+    ]
+  }
+}
