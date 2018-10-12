@@ -29,7 +29,7 @@ function createClient({ headers }) {
         },
       },
       defaults: {
-        cartOpen: true,
+        cartOpen: false,
       },
     },
   });
